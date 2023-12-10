@@ -1,1 +1,1 @@
-from funcs import numbers
+from funcs import add, subtract
